@@ -1,0 +1,7 @@
+./project1/HR/archives/jadwal_HR.pdf
+./project1/HR/documents/jadwal_HR.pdf
+./project1/marketing/archives/strategi_marketing.pdf
+./project1/marketing/documents/strategi_marketing.pdf
+./project1/engineering/archives/design_engineering.pdf
+./project1/engineering/documents/design_engineering.pdf
+daftar pdf
